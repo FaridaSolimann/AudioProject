@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\faridasoliman.AUC\Downloads\DSP1\DSP\Test.ncd
+OUTFILE=C:\Users\faridasoliman.AUC\Downloads\DSP1\DSP\Test.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=C:\Users\faridasoliman.AUC\Downloads\DSP1\DSP
+LICENSE=WebPack
+USER_INFO=210805060_0_0_551

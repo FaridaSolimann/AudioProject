@@ -1,0 +1,5 @@
+# Output products list for <ROM>
+ROM.xco
+ROM_flist.txt
+ROM_readme.txt
+ROM_xmdf.tcl

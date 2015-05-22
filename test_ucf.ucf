@@ -1,0 +1,33 @@
+NET "clk" LOC  = V10;
+NET "rst" LOC = T5;
+
+NET "i2s_en" LOC = T10;
+NET "mic_en" LOC = T9; 
+
+NET "mic_ncs" LOC = T12;
+NET "mic_sclk" LOC = P11;
+NET "mic_sData" LOC = N10;
+
+NET "i2s_sData" LOC = G3;
+NET "i2s_mclk" LOC = H3;
+NET "i2s_sclk" LOC = K6;
+NET "i2s_lrclk" LOC = L7;
+
+NET "echo_en" LOC = 	V8;
+NET "echo_en_rd" LOC = 	U8;
+
+NET "pitch_en" LOC = V9;
+NET "lowpass_en" LOC = M8;
+//NET "q[0]" LOC = T17;
+//NET "q[1]" LOC = T18;
+//NET "q[2]" LOC = U17;
+//NET "q[3]" LOC = U18;
+//NET "q[4]" LOC = M14;
+//NET "q[5]" LOC = N14;
+//NET "q[6]" LOC = L14;
+//NET "f" LOC = P17;
+//NET "decoder_out[1]" LOC = P18;
+//NET "decoder_out[2]" LOC = N15;
+//NET "decoder_out[3]" LOC = N16;
+//NET "en" LOC = N8;
+

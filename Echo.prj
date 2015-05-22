@@ -1,0 +1,2 @@
+verilog work "Echo.v"
+verilog work "ipcore_dir/clk_div/example_design/clk_div_exdes.v"
