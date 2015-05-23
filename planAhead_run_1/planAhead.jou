@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# PlanAhead v14.2 (64-bit)
+# Build 194362 by xbuild on Fri Jul 20 18:52:11 MDT 2012
+# Start of session at: Fri May 22 11:10:04 2015
+# Process ID: 1236
+# Log file: C:/Users/faridasoliman.AUC/Downloads/DSP1/DSP/planAhead_run_1/planAhead.log
+# Journal file: C:/Users/faridasoliman.AUC/Downloads/DSP1/DSP/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source C:/Users/faridasoliman.AUC/Downloads/DSP1/DSP/pa.fromNetlist.tcl
